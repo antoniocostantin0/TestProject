@@ -13,7 +13,7 @@ public class Test {
 	}
 	
 	private static void hello() {
-		System.out.println("hello");
+		System.out.println("hello00000000000");
 	}
 
 }
